@@ -15,7 +15,7 @@ if ($_SESSION['username'] == "ANONYMOUS") {
 <?php
 	$rep = "backup";
 
-  echo "mlqsdkqmsl";
+  echo "toto";
 
 	$sqladmin = "
 	  SELECT
