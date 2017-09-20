@@ -13,7 +13,11 @@ if ($_SESSION['username'] == "ANONYMOUS") {
 ?>
 
 <?php
+<<<<<<< HEAD
 	$rep = "";
+=======
+	$rep = "qslkfjqlfdkj";
+>>>>>>> test1
 
   echo "toto";
 
